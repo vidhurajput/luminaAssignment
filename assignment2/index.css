@@ -1,0 +1,11 @@
+#drops1{
+     min-height: 21px;
+    /* min-height: 19px; */
+    min-width:115px;
+    border-bottom: 1px solid #969696;
+    position: relative;
+    display: inline-block;
+    height: 20px;
+    line-height:21px; /* remove */
+    text-align: center;
+}
